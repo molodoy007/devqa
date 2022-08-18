@@ -1,0 +1,33 @@
+html {
+  font-size: 12px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+  font-family: 'Montserrat', sans-serif;
+  background-color: #eae0d5;
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  font-family: 'Michroma', sans-serif;
+  
+}
+h2, h3 {
+  font-size: 35px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 13px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+body {
+  width: 800px;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+  border: 50px solid #403d39;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+}
